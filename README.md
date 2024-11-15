@@ -1,5 +1,5 @@
 # duocarmycin-vcf
-VCF files of mutations in HepG2 cells exposed to duocarmycin from Boot et al., 2020, 10.1101/gr.255620.119
+VCF files of mutations in HepG2 cells exposed to duocarmycin from Boot et al., 2020, 10.1101/gr.255620.119.
 
 Exposure was to duocarmycin SA, CAS 130288-24-3 purchased from BOC Sciences.
 
